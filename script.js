@@ -5,7 +5,6 @@ const sfx = document.getElementById("sfx");
 
 function openPopup(){
     popup.classList.add("animation");
-    sfx.play();
 }
 
 function closePopup(){
